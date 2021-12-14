@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Manual de Usuario
+
+##Esta info será últil para configurar la página usando el theme elegido.
 
 You can use the [editor on GitHub](https://github.com/vasga-floze/users-guide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
