@@ -1,39 +1,51 @@
 # Manual de Usuario
 
-##Esta info será últil para configurar la página usando el theme elegido.
+## Introducción a TalkFood
+Si los programadores pueden tener Stackoverflow y Github para compartir soluciones y ayuda remota, porque no también los amantes de la cocina, seguro todos conocemos a alguien que estaría feliz de poder tener diversas recetas de cocina para estar probando nuevos gustos e innovando su menú en casa por simple placer o amor a los suyos. Seguro en algún lugar del mundo alguien agradecería tener las recetas de las pupusas salvadoreñas incluso para poder tener un emprendimiento en su país. 
 
-You can use the [editor on GitHub](https://github.com/vasga-floze/users-guide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## ¿Qué es Talkfood?
+- TalkFood es una red social para chefs y amantes de la cocina que deseen adquirir y/o compartir conocimientos en las artes culinarias, posteando sus recetas o viendo las recetas compartidas por otros usuarios; donde todos podrán compartir fotos y pasos de lo que hacen para preparar una receta.
+- También podrán a través de comentarios realizar sugerencias, además dejar sus valoraciones a la persona que compartió su receta.
+- Permitirá la adquisición de nuevas recetas e incluso un intercambio cultural culinario entre los diversos manjares de muchos países.
+La misión es permitir que todos encuentren inspiración para cocinar en casa a través de las diferentes recetas que todos los usuarios van a compartir.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Funcionalidades principales
+-
+-
+-
 
-### Markdown
+## Menús
+Este es el menu principal en la barra de navegación:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Imagen de ejemplo](https://www.desarketing.com/wp-content/uploads/2015/03/Como-hacer-un-men%C3%BA-de-navegaci%C3%B3n-adaptable-a-dispositivos-m%C3%B3viles-Responsive-Design.jpg)
 
-```markdown
-Syntax highlighted code block
+Descripción del menú:
 
-# Header 1
-## Header 2
-### Header 3
+![]()
 
-- Bulleted
-- List
+Descripción del menú:
 
-1. Numbered
-2. List
+![]()
 
-**Bold** and _Italic_ and `Code` text
+## Preguntas Frequentes (FAQ)
+- [¿Cómo recupero mi contraseña si la olvidé?](https://www.youtube.com/watch?v=mLFF_NuOgV0)
+- [¿Cómo puedo crear una cuenta para usar Talkfood?](https://www.youtube.com/watch?v=m0sgUd8U2qQ)
+- [¿Cómo inicio sesión?](https://www.youtube.com/watch?v=4khdIKtRM7Y)
+- [¿¿Cómo inicio sesión si ya tengo una cuenta??](https://www.youtube.com/watch?v=saJcYbLKyIU)
+- [¿Cómo evito estar ingresando mis credenciales cada vez que quiero ingresar a Talkfood?](https://www.youtube.com/watch?v=8HUm5mBQMvA)
 
-[Link](url) and ![Image](src)
-```
+## Posibles errores que puedes encontrar
+-
+-
+-
+-
+-
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+ ¿Quiénes son los creadores de TalkFood? [Ir a página de los creadores](https://vasga-floze.github.io/manual-talkfood/about.html).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasga-floze/users-guide/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Soporte o Contacto
+
+¿Tienes problemas con TalkFood? Ponte en contacto con el servicio de asistencia técnica y te ayudaremos a solucionarlo.
