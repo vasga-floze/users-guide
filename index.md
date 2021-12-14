@@ -1,3 +1,4 @@
+![](images/banner.png)
 # Manual de Usuario
 
 ## Introducción a TalkFood
