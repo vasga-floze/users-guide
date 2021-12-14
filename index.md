@@ -31,7 +31,7 @@ Descripción del menú:
 - [¿Cómo recupero mi contraseña si la olvidé?](https://www.youtube.com/watch?v=mLFF_NuOgV0)
 - [¿Cómo puedo crear una cuenta para usar Talkfood?](https://www.youtube.com/watch?v=m0sgUd8U2qQ)
 - [¿Cómo inicio sesión?](https://www.youtube.com/watch?v=4khdIKtRM7Y)
-- [¿¿Cómo inicio sesión si ya tengo una cuenta??](https://www.youtube.com/watch?v=saJcYbLKyIU)
+- [¿Cómo inicio sesión si ya tengo una cuenta?](https://www.youtube.com/watch?v=saJcYbLKyIU)
 - [¿Cómo evito estar ingresando mis credenciales cada vez que quiero ingresar a Talkfood?](https://www.youtube.com/watch?v=8HUm5mBQMvA)
 
 ## Posibles errores que puedes encontrar
